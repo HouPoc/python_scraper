@@ -8,3 +8,156 @@
 2019-04-30 00:09:43:: General Error ::  - get_home_data - https://www.redfin.com/OR/Portland/4127-NE-57th-Ave-97218/home/26548936#marketing-remarks-scroll
 2019-04-30 01:02:38:: General Error ::  - get_home_data - https://www.redfin.com/OR/Portland/4127-NE-57th-Ave-97218/home/26548936#marketing-remarks-scroll
 2019-04-30 01:02:39:: General Error ::  - get_home_data - https://www.redfin.com/OR/Portland/4127-NE-57th-Ave-97218/home/26548936#marketing-remarks-scroll
+2019-04-30 18:08:41:: General Error ::  - get_home_data - https://www.redfin.com/OR/Portland/3144-NE-80th-Ave-97213/home/26438641
+2019-04-30 18:08:41:: General Error ::  - get_home_data - https://www.redfin.com/OR/Portland/3144-NE-80th-Ave-97213/home/26438641
+2019-04-30 21:34:41:: General Error ::  - get_home_data - https://www.redfin.com/OR/Portland/3144-NE-80th-Ave-97213/home/26438641
+2019-04-30 21:34:41:: General Error ::  - get_home_data - https://www.redfin.com/OR/Portland/3144-NE-80th-Ave-97213/home/26438641
+2019-04-30 21:36:38:: General Error ::  - get_home_data - https://www.redfin.com/OR/Portland/3144-NE-80th-Ave-97213/home/26438641
+2019-04-30 21:36:54:: General Error ::  - get_home_data - https://www.redfin.com/OR/Portland/3144-NE-80th-Ave-97213/home/26438641
+2019-04-30 21:37:19:: General Error ::  - get_home_data - https://www.redfin.com/OR/Portland/3144-NE-80th-Ave-97213/home/26438641
+2019-04-30 21:37:19:: General Error ::  - get_home_data - https://www.redfin.com/OR/Portland/3144-NE-80th-Ave-97213/home/26438641
+2019-04-30 21:38:16:: General Error ::  - get_home_data - https://www.redfin.com/AZ/Tempe/945-E-Playa-Del-Norte-Dr-85281/unit-1010/home/39963438
+2019-04-30 21:38:40:: General Error ::  - get_home_data - https://www.redfin.com/AZ/Tempe/945-E-Playa-Del-Norte-Dr-85281/unit-1010/home/39963438
+2019-04-30 21:59:36:: General Error :: HTTPSConnectionPool(host='www.redfin.com', port=443): Max retries exceeded with url: /AZ/Tempe/1122-W-17th-Pl-85281/home/143491897 (Caused by <class 'http.client.BadStatusLine'>: '')::  - get_home_data - https://www.redfin.com/AZ/Tempe/1122-W-17th-Pl-85281/home/143491897
+2019-04-30 21:59:37:: General Error :: HTTPSConnectionPool(host='www.redfin.com', port=443): Max retries exceeded with url: /AZ/Tempe/1122-W-17th-Pl-85281/home/143491897 (Caused by <class 'http.client.BadStatusLine'>: '')::  - get_home_data - https://www.redfin.com/AZ/Tempe/1122-W-17th-Pl-85281/home/143491897
+2019-04-30 22:02:05:: General Error :: Cannot connect to proxy. Socket error: Tunnel connection failed: 500 Internal Server Error.::  - get_home_data - https://www.redfin.com/AZ/Tempe/1122-W-17th-Pl-85281/home/143491897
+2019-04-30 22:02:14:: General Error :: Cannot connect to proxy. Socket error: Tunnel connection failed: 500 Internal Server Error.::  - get_home_data - https://www.redfin.com/AZ/Tempe/1122-W-17th-Pl-85281/home/143491897
+2019-04-30 22:03:05:: General Error :: Cannot connect to proxy. Socket error: Tunnel connection failed: 500 Internal Server Error.::  - get_home_data - https://www.redfin.com/AZ/Tempe/1122-W-17th-Pl-85281/home/143491897
+2019-04-30 22:03:09:: General Error :: Cannot connect to proxy. Socket error: Tunnel connection failed: 500 Internal Server Error.::  - get_home_data - https://www.redfin.com/AZ/Tempe/1122-W-17th-Pl-85281/home/143491897
+2019-04-30 22:03:19:: General Error :: Cannot connect to proxy. Socket error: Tunnel connection failed: 500 Internal Server Error.::  - get_home_data - https://www.redfin.com/AZ/Tempe/1122-W-17th-Pl-85281/home/143491897
+2019-04-30 22:03:30:: General Error :: Cannot connect to proxy. Socket error: Tunnel connection failed: 500 Internal Server Error.::  - get_home_data - https://www.redfin.com/AZ/Tempe/1122-W-17th-Pl-85281/home/143491897
+2019-04-30 22:13:19:: General Error :: Cannot connect to proxy. Socket error: Tunnel connection failed: 500 Internal Server Error.::  - get_home_data - https://www.redfin.com/AZ/Tempe/1122-W-17th-Pl-85281/home/143491897
+2019-04-30 22:13:21:: General Error :: Cannot connect to proxy. Socket error: Tunnel connection failed: 500 Internal Server Error.::  - get_home_data - https://www.redfin.com/AZ/Tempe/1122-W-17th-Pl-85281/home/143491897
+2019-04-30 22:15:48:: General Error :: Cannot connect to proxy. Socket error: [Errno 11] Resource temporarily unavailable.::  - get_home_data - https://www.redfin.com/AZ/Tempe/1122-W-17th-Pl-85281/home/143491897
+2019-04-30 22:16:12:: General Error :: Cannot connect to proxy. Socket error: [Errno 11] Resource temporarily unavailable.::  - get_home_data - https://www.redfin.com/AZ/Tempe/1122-W-17th-Pl-85281/home/143491897
+2019-04-30 22:19:57:: General Error :: 403 Client Error: Forbidden::  - get_home_data - https://www.redfin.com/AZ/Tempe/154-W-5th-St-85281/unit-240/home/28141552
+2019-04-30 22:20:01:: General Error :: 403 Client Error: Forbidden::  - get_home_data - https://www.redfin.com/AZ/Tempe/154-W-5th-St-85281/unit-240/home/28141552
+2019-04-30 22:20:29:: General Error :: 403 Client Error: Forbidden::  - get_home_data - https://www.redfin.com/AZ/Tempe/154-W-5th-St-85281/unit-240/home/28141552
+2019-04-30 22:20:34:: General Error :: 403 Client Error: Forbidden::  - get_home_data - https://www.redfin.com/AZ/Tempe/154-W-5th-St-85281/unit-240/home/28141552
+2019-04-30 22:23:16:: General Error :: 403 Client Error: Forbidden::  - get_home_data - https://www.redfin.com/AZ/Tempe/154-W-5th-St-85281/unit-240/home/28141552
+2019-04-30 22:23:19:: General Error :: 403 Client Error: Forbidden::  - get_home_data - https://www.redfin.com/AZ/Tempe/154-W-5th-St-85281/unit-240/home/28141552
+2019-04-30 22:23:33:: General Error :: 403 Client Error: Forbidden::  - get_home_data - https://www.redfin.com/AZ/Tempe/154-W-5th-St-85281/unit-240/home/28141552
+2019-04-30 22:23:37:: General Error :: 403 Client Error: Forbidden::  - get_home_data - https://www.redfin.com/AZ/Tempe/154-W-5th-St-85281/unit-240/home/28141552
+2019-04-30 22:25:28:: General Error :: 403 Client Error: Forbidden::  - get_home_data - https://www.redfin.com/AZ/Tempe/154-W-5th-St-85281/unit-240/home/28141552
+2019-04-30 22:25:33:: General Error :: 403 Client Error: Forbidden::  - get_home_data - https://www.redfin.com/AZ/Tempe/154-W-5th-St-85281/unit-240/home/28141552
+2019-04-30 22:26:55:: General Error :: 403 Client Error: Forbidden::  - get_home_data - https://www.redfin.com/AZ/Tempe/154-W-5th-St-85281/unit-240/home/28141552
+2019-04-30 22:26:59:: General Error :: 403 Client Error: Forbidden::  - get_home_data - https://www.redfin.com/AZ/Tempe/154-W-5th-St-85281/unit-240/home/28141552
+2019-04-30 22:28:10:: General Error :: 403 Client Error: Forbidden::  - get_home_data - https://www.redfin.com/AZ/Tempe/154-W-5th-St-85281/unit-240/home/28141552
+2019-04-30 22:28:15:: General Error :: 403 Client Error: Forbidden::  - get_home_data - https://www.redfin.com/AZ/Tempe/154-W-5th-St-85281/unit-240/home/28141552
+2019-04-30 22:30:01:: General Error :: Cannot connect to proxy. Socket error: [Errno 11] Resource temporarily unavailable.::  - get_home_data - https://www.redfin.com/AZ/Tempe/154-W-5th-St-85281/unit-240/home/28141552
+2019-04-30 22:30:07:: General Error :: 403 Client Error: Forbidden::  - get_home_data - https://www.redfin.com/AZ/Tempe/154-W-5th-St-85281/unit-240/home/28141552
+2019-04-30 22:30:35:: General Error :: 403 Client Error: Forbidden::  - get_home_data - https://www.redfin.com/AZ/Tempe/154-W-5th-St-85281/unit-240/home/28141552
+2019-04-30 22:30:39:: General Error :: 403 Client Error: Forbidden::  - get_home_data - https://www.redfin.com/AZ/Tempe/154-W-5th-St-85281/unit-240/home/28141552
+2019-04-30 22:53:18:: General Error :: 403 Client Error: Forbidden::  - get_home_data - https://www.redfin.com/AZ/Tempe/154-W-5th-St-85281/unit-240/home/28141552
+2019-04-30 22:53:21:: General Error :: 403 Client Error: Forbidden::  - get_home_data - https://www.redfin.com/AZ/Tempe/154-W-5th-St-85281/unit-240/home/28141552
+2019-04-30 23:10:25:: General Error :: HTTPSConnectionPool(host='www.redfin.com', port=443): Max retries exceeded with url: /AZ/Tempe/154-W-5th-St-85281/unit-240/home/28141552 (Caused by <class 'socks.ProxyConnectionError'>: Error connecting to SOCKS5 proxy 127.0.0.1:9050: [Errno 111] Connection refused)::  - get_home_data - https://www.redfin.com/AZ/Tempe/154-W-5th-St-85281/unit-240/home/28141552
+2019-04-30 23:10:28:: General Error :: HTTPSConnectionPool(host='www.redfin.com', port=443): Max retries exceeded with url: /AZ/Tempe/154-W-5th-St-85281/unit-240/home/28141552 (Caused by <class 'socks.ProxyConnectionError'>: Error connecting to SOCKS5 proxy 127.0.0.1:9050: [Errno 111] Connection refused)::  - get_home_data - https://www.redfin.com/AZ/Tempe/154-W-5th-St-85281/unit-240/home/28141552
+2019-04-30 23:10:50:: General Error :: HTTPSConnectionPool(host='www.redfin.com', port=443): Max retries exceeded with url: /AZ/Tempe/1641-E-El-Parque-Dr-85282/home/27171072 (Caused by <class 'socks.ProxyConnectionError'>: Error connecting to SOCKS5 proxy 127.0.0.1:9050: [Errno 111] Connection refused)::  - get_home_data - https://www.redfin.com/AZ/Tempe/1641-E-El-Parque-Dr-85282/home/27171072
+2019-04-30 23:10:55:: General Error :: HTTPSConnectionPool(host='www.redfin.com', port=443): Max retries exceeded with url: /AZ/Tempe/1641-E-El-Parque-Dr-85282/home/27171072 (Caused by <class 'socks.ProxyConnectionError'>: Error connecting to SOCKS5 proxy 127.0.0.1:9050: [Errno 111] Connection refused)::  - get_home_data - https://www.redfin.com/AZ/Tempe/1641-E-El-Parque-Dr-85282/home/27171072
+2019-04-30 23:12:00:: General Error :: HTTPSConnectionPool(host='www.redfin.com', port=443): Max retries exceeded with url: /OR/Portland/617-SE-49th-Ave-97215/home/26315285 (Caused by <class 'socks.ProxyConnectionError'>: Error connecting to SOCKS5 proxy 127.0.0.1:9050: [Errno 111] Connection refused)::  - get_home_data - https://www.redfin.com/OR/Portland/617-SE-49th-Ave-97215/home/26315285
+2019-04-30 23:12:04:: General Error :: HTTPSConnectionPool(host='www.redfin.com', port=443): Max retries exceeded with url: /OR/Portland/617-SE-49th-Ave-97215/home/26315285 (Caused by <class 'socks.ProxyConnectionError'>: Error connecting to SOCKS5 proxy 127.0.0.1:9050: [Errno 111] Connection refused)::  - get_home_data - https://www.redfin.com/OR/Portland/617-SE-49th-Ave-97215/home/26315285
+2019-04-30 23:14:02:: General Error :: HTTPSConnectionPool(host='www.redfin.com', port=443): Max retries exceeded with url: /OR/Portland/617-SE-49th-Ave-97215/home/26315285 (Caused by <class 'socks.ProxyConnectionError'>: Error connecting to SOCKS5 proxy 127.0.0.1:9050: [Errno 111] Connection refused)::  - get_home_data - https://www.redfin.com/OR/Portland/617-SE-49th-Ave-97215/home/26315285
+2019-04-30 23:14:07:: General Error :: HTTPSConnectionPool(host='www.redfin.com', port=443): Max retries exceeded with url: /OR/Portland/617-SE-49th-Ave-97215/home/26315285 (Caused by <class 'socks.ProxyConnectionError'>: Error connecting to SOCKS5 proxy 127.0.0.1:9050: [Errno 111] Connection refused)::  - get_home_data - https://www.redfin.com/OR/Portland/617-SE-49th-Ave-97215/home/26315285
+2019-04-30 23:33:12:: General Error ::  - redfin_scrapter - /city/2143/AL/Bon-Air
+2019-04-30 23:33:16:: General Error ::  - redfin_scrapter - /city/2143/AL/Bon-Air
+2019-04-30 23:33:23:: General Error ::  - redfin_scrapter - /city/3756/AL/Childersburg
+2019-04-30 23:33:26:: General Error ::  - redfin_scrapter - /city/3756/AL/Childersburg
+2019-05-01 00:53:25:: Connection Error ::  - redfin_scrapter - /city/2143/AL/Bon-Air
+2019-05-01 00:53:49:: Http Error ::  - redfin_scrapter - /city/2143/AL/Bon-Air
+2019-05-01 00:53:53:: Http Error ::  - redfin_scrapter - /city/2143/AL/Bon-Air
+2019-05-01 01:47:10:: Http Error ::  - redfin_scrapter - /city/2143/AL/Bon-Air
+2019-05-01 01:47:58:: Http Error ::  - redfin_scrapter - /city/2143/AL/Bon-Air
+2019-05-01 01:48:44:: Connection Error ::  - redfin_scrapter - /city/2143/AL/Bon-Air
+2019-05-01 01:49:56:: Connection Error ::  - redfin_scrapter - /city/2143/AL/Bon-Air
+2019-05-01 01:51:38:: Connection Error ::  - redfin_scrapter - /city/2143/AL/Bon-Air
+2019-05-01 22:51:50:: General Error :: 403 Client Error: Forbidden::  - get_home_data - https://www.redfin.com/OR/Portland/7242-SE-Sherrett-St-97206/home/26648044
+2019-05-01 22:51:55:: General Error :: 403 Client Error: Forbidden::  - get_home_data - https://www.redfin.com/OR/Portland/7242-SE-Sherrett-St-97206/home/26648044
+2019-05-01 22:51:59:: General Error :: 403 Client Error: Forbidden::  - get_home_data - https://www.redfin.com/OR/Portland/1136-SE-112th-Ave-97216/home/26563561
+2019-05-01 22:52:03:: General Error :: 403 Client Error: Forbidden::  - get_home_data - https://www.redfin.com/OR/Portland/1136-SE-112th-Ave-97216/home/26563561
+2019-05-01 22:53:21:: General Error :: 403 Client Error: Forbidden::  - get_home_data - https://www.redfin.com/OR/Portland/7242-SE-Sherrett-St-97206/home/26648044
+2019-05-01 22:53:25:: General Error :: 403 Client Error: Forbidden::  - get_home_data - https://www.redfin.com/OR/Portland/7242-SE-Sherrett-St-97206/home/26648044
+2019-05-01 22:54:20:: General Error ::  - redfin_scrapter - /city/2143/AL/Bon-Air
+2019-05-01 22:54:24:: General Error ::  - redfin_scrapter - /city/2143/AL/Bon-Air
+2019-05-01 22:56:21:: Connection Error ::  - redfin_scrapter - /city/2143/AL/Bon-Air
+2019-05-01 23:00:51:: Http Error ::  - redfin_scrapter - /city/2143/AL/Bon-Air
+2019-05-01 23:05:44:: Http Error ::  - redfin_scrapter - /city/2143/AL/Bon-Air
+2019-05-01 23:08:24:: Http Error ::  - redfin_scrapter - /city/2143/AL/Bon-Air
+2019-05-01 23:08:47:: Http Error ::  - redfin_scrapter - /city/2143/AL/Bon-Air
+2019-05-01 23:10:39:: General Error :: 403 Client Error: Forbidden::  - get_home_data - https://www.redfin.com/CA/San-Francisco/2215-19th-Ave-94116/home/1701602
+2019-05-01 23:10:43:: General Error :: 403 Client Error: Forbidden::  - get_home_data - https://www.redfin.com/CA/San-Francisco/2215-19th-Ave-94116/home/1701602
+2019-05-01 23:10:49:: General Error :: 403 Client Error: Forbidden::  - get_home_data - https://www.redfin.com/CA/San-Francisco/2914-Fillmore-St-94123/home/2010032
+2019-05-01 23:10:52:: General Error :: 403 Client Error: Forbidden::  - get_home_data - https://www.redfin.com/CA/San-Francisco/2914-Fillmore-St-94123/home/2010032
+2019-05-01 23:10:58:: General Error :: 503 Server Error: Service Unavailable::  - get_home_data - https://www.redfin.com/CA/San-Francisco/201-Harrison-St-94105/unit-310/home/726549
+2019-05-01 23:12:20:: Http Error ::  - redfin_scrapter - /city/2143/AL/Bon-Air
+2019-05-02 03:37:01:: Http Error ::  - get_home_data - https://www.redfin.com/OR/Portland/617-SE-49th-Ave-97215/home/26315285
+2019-05-02 03:37:08:: General Error :: HTTPSConnectionPool(host='www.redfin.com', port=443): Max retries exceeded with url: /OR/Portland/617-SE-49th-Ave-97215/home/26315285 (Caused by <class 'http.client.BadStatusLine'>: '')::  - get_home_data - https://www.redfin.com/OR/Portland/617-SE-49th-Ave-97215/home/26315285
+2019-05-02 03:37:37:: Http Error ::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 03:37:38:: Http Error ::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 03:37:39:: General Error :: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed (_ssl.c:600)::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 03:37:44:: Http Error ::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 03:38:05:: General Error :: Cannot connect to proxy. Socket error: [Errno 11] Resource temporarily unavailable.::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 03:38:33:: Http Error ::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 03:40:15:: Http Error ::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 15:02:13:: Http Error ::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 15:02:16:: Http Error ::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 15:02:19:: Http Error ::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 15:02:22:: Http Error ::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 15:02:28:: Http Error ::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 15:02:32:: Http Error ::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 15:38:19:: Http Error ::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 15:38:21:: Http Error ::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 15:38:24:: Http Error ::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 15:38:26:: Http Error ::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 15:38:29:: Http Error ::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 15:38:32:: Http Error ::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 15:38:35:: Http Error ::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 15:38:39:: Http Error ::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 15:38:42:: Http Error ::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 15:38:57:: Http Error ::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 15:38:59:: Http Error ::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 15:41:36:: Http Error ::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 15:41:39:: Http Error ::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 15:41:42:: Http Error ::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 15:41:44:: Http Error ::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 15:42:49:: Http Error ::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 15:42:51:: Http Error ::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 15:45:21:: Http Error ::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 15:45:24:: Http Error ::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 15:45:27:: Http Error ::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 15:47:34:: Http Error ::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 15:47:36:: Http Error ::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 15:48:59:: General Error :: Cannot connect to proxy. Socket error: Tunnel connection failed: 407 Proxy Authentication Required.::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 15:49:06:: General Error :: Cannot connect to proxy. Socket error: Tunnel connection failed: 407 Proxy Authentication Required.::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 15:49:26:: General Error :: Cannot connect to proxy. Socket error: Tunnel connection failed: 407 Proxy Authentication Required.::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 15:52:02:: Http Error ::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 15:52:06:: Http Error ::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 15:52:10:: Http Error ::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 15:52:14:: Http Error ::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 15:52:26:: Http Error ::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 15:52:26:: get_home_datalocal IP has been blacklisted. Terminate the scrapter for now .
+
+2019-05-02 15:56:56:: Http Error ::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 15:56:56:: get_home_datalocal IP has been blacklisted. Terminate the scrapter for now .
+
+2019-05-02 16:21:29:: General Error :: Cannot connect to proxy. Socket error: Tunnel connection failed: 407 Proxy Authentication Required.::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 16:23:33:: Http Error ::  - get_home_data - https://www.redfin.com/AZ/Tempe/6510-S-Hazelton-Ln-85283/unit-146/home/28039320
+2019-05-02 16:23:33:: get_home_datalocal IP has been blacklisted. Terminate the scrapter for now .
+
+2019-05-02 17:13:43:: Http Error ::  - get_home_data - https://www.redfin.com/WA/Seattle/2500-Montavista-Pl-W-98199/home/126606
+2019-05-02 17:13:43:: get_home_datalocal IP has been blacklisted. Terminate the scrapter for now .
+
+2019-05-02 17:17:08:: Http Error ::  - get_home_data - https://www.redfin.com/WA/Seattle/2500-Montavista-Pl-W-98199/home/126606
+2019-05-02 17:17:08:: get_home_datalocal IP has been blacklisted. Terminate the scrapter for now .
+
+2019-05-02 18:06:48:: Http Error ::  - get_home_data - https://www.redfin.com/CA/San-Francisco/201-Harrison-St-94105/unit-310/home/726549
+2019-05-02 18:06:48:: get_home_datalocal IP has been blacklisted. Terminate the scrapter for now .
+
+2019-05-02 18:46:13:: Http Error ::  - get_home_data - https://www.redfin.com/CA/San-Francisco/201-Harrison-St-94105/unit-310/home/726549
+2019-05-02 18:46:16:: Http Error ::  - get_home_data - https://www.redfin.com/CA/San-Francisco/201-Harrison-St-94105/unit-310/home/726549
+2019-05-02 18:46:18:: Http Error ::  - get_home_data - https://www.redfin.com/CA/San-Francisco/201-Harrison-St-94105/unit-310/home/726549
+2019-05-02 18:46:20:: Http Error ::  - get_home_data - https://www.redfin.com/CA/San-Francisco/201-Harrison-St-94105/unit-310/home/726549
+2019-05-02 18:46:24:: Http Error ::  - get_home_data - https://www.redfin.com/CA/San-Francisco/201-Harrison-St-94105/unit-310/home/726549
+2019-05-02 18:46:26:: Http Error ::  - get_home_data - https://www.redfin.com/CA/San-Francisco/201-Harrison-St-94105/unit-310/home/726549
+2019-05-02 18:46:28:: Http Error ::  - get_home_data - https://www.redfin.com/CA/San-Francisco/201-Harrison-St-94105/unit-310/home/726549
+2019-05-02 18:46:28:: get_home_datalocal IP has been blacklisted. Terminate the scrapter for now .
+
