@@ -11,6 +11,12 @@ import pandas as pd
 from datetime import datetime
 from collections import defaultdict
 from bs4 import BeautifulSoup
+
+states = ["AL", "AK", "AZ", "AR", "CA", "CO", "CT", "DC", "DE", "FL", "GA", 
+          "HI", "ID", "IL", "IN", "IA", "KS", "KY", "LA", "ME", "MD", 
+          "MA", "MI", "MN", "MS", "MO", "MT", "NE", "NV", "NH", "NJ", 
+          "NM", "NY", "NC", "ND", "OH", "OK", "OR", "PA", "RI", "SC", 
+          "SD", "TN", "TX", "UT", "VT", "VA", "WA", "WV", "WI", "WY"]
 '''
 The base url to get recent-sold-houses on redfin.com requires a city code, like https://www.redfin.com/city/30772/OR/Portland/recently-sold. 
 30772 is the city code for Portland.  
